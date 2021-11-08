@@ -41,4 +41,6 @@ API doc to follow
 * Backendless Rest node.js and web client: https://github.com/Backendless/Request
 * Stripe-node: https://www.npmjs.com/package/stripe
 * PayPal Checkout API SDK for NodeJS: https://www.npmjs.com/package/@paypal/checkout-server-sdk
+* NowPayments JS API: https://www.npmjs.com/package/@nowpaymentsio/nowpayments-api-js
 * dotenv: https://www.npmjs.com/package/dotenv
+
